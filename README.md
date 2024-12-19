@@ -41,7 +41,7 @@ The database consists of the following key tables:
 - Inventory (Stock levels)
 - ReorderRequests (Automated reordering)
 
-![Database Schema](dbdiagram.png)
+![Database Schema](./schema/dbdiagram.png)
 
 ## Features
 
