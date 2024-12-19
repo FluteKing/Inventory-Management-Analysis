@@ -1,4 +1,4 @@
-# Inventory Management System
+# Inventory Management System Analysis
 
 A PostgreSQL-based inventory management system that tracks products, orders, warehouses, employees and inventory levels across multiple geographical locations.
 
