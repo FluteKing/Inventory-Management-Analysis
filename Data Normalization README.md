@@ -1,6 +1,6 @@
 # Data Normalization and Database Setup Process
 
-This README provides a detailed explanation of the steps involved in normalizing a dataset, creating a relational database, and migrating data to the normalized schema. The process was implemented using SQL code provided in the ![database creation file](./sql/create_database.sql) and the [database diagram code file](./schema/dbdiagram_code.sql). Below, each step is explained in detail.
+This README provides a detailed explanation of the steps involved in normalizing a dataset, creating a relational database, and migrating data to the normalized schema. The process was implemented using SQL code provided in the [database creation file](./sql/create_database.sql) and the [database diagram code file](./schema/dbdiagram_code.sql). Below, each step is explained in detail.
 
 ---
 
