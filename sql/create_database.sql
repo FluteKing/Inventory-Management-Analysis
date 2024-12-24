@@ -253,6 +253,7 @@ ALTER SEQUENCE orderitem_order_item_id_seq RESTART WITH 1;
 ALTER TABLE ordertable
 ADD COLUMN employee_id INT;
 
+--adding employee_id to ordertable
 UPDATE ordertable AS o
 SET employee_id = emp_data.employee_id
 FROM (
